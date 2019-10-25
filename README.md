@@ -1,3 +1,4 @@
+https://github.com/a312863063/seeprettyface-ganerator-dongman
 &emsp;&emsp;Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.<br/>
 &emsp;&emsp;64-bit Python 3.6 installation. We recommend Anaconda3 with numpy 1.14.3 or newer.<br/>
 &emsp;&emsp;TensorFlow 1.10.0 or newer with GPU support.<br/>
